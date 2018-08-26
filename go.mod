@@ -1,1 +1,1 @@
-module sample-go-module
+module samplegomodule

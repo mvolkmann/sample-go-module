@@ -1,7 +1,8 @@
-package main
+package samplegomodule
 
 import "fmt"
 
-func main() {
-	fmt.Println("This is version 0.1")
+// PrintVersion prints the version of this module.
+func PrintVersion() {
+	fmt.Println("This is version 0.1.0")
 }
