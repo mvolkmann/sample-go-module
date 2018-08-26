@@ -1,1 +1,1 @@
-module samplegomodule
+module github.com/mvolkmann/samplegomodule
