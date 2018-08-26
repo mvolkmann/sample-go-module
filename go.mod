@@ -1,0 +1,1 @@
+module sample-go-module
